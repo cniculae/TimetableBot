@@ -1,0 +1,40 @@
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Bot Application1.dll.config
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Bot Application1.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Bot Application1.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Autofac.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Chronic.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.Bot.Builder.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.Bot.Connector.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Newtonsoft.Json.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\System.Net.Http.Formatting.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\System.Web.Http.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\System.Web.Http.WebHost.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Autofac.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.Bot.Builder.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.Bot.Connector.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\Newtonsoft.Json.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\System.Net.Http.Formatting.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\System.Web.Http.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\System.Web.Http.WebHost.xml
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\obj\Debug\ZettaBot.csprojResolveAssemblyReference.cache
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\obj\Debug\Bot Application1.dll
+c:\users\cristi\documents\visual studio 2015\Projects\ZettaBot\ZettaBot\obj\Debug\Bot Application1.pdb
+C:\Users\Cristi\Documents\Visual Studio 2015\Projects\ZettaBot\ZettaBot\bin\MySql.Data.dll
